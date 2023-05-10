@@ -1,0 +1,6 @@
+com\portfoliomou\Mourelle\repositorio\IPersonaRepositorio.class
+com\portfoliomou\Mourelle\servicio\ImplementacionPersoServ.class
+com\portfoliomou\Mourelle\controlador\PersonaControlador.class
+com\portfoliomou\Mourelle\MourelleApplication.class
+com\portfoliomou\Mourelle\interfaz\IPersonaServicio.class
+com\portfoliomou\Mourelle\entidad\Persona.class
